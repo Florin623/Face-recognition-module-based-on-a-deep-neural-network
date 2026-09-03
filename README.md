@@ -1,0 +1,1 @@
+Face recognition module based on a pretrained deep neural network using Python and PyTorch. 5 danish personalities and 9 photographs of each one are chosen. 7 pictures are used for reference and the rest of 2 are for testing.
